@@ -13,11 +13,11 @@ With 7+ years of front-end development experience, I craft engaging and responsi
 ### 🛠️ Tech Stack
 
 
-💻 Languages & Core:    HTML5, CSS3, JavaScript, TypeScript
-🔧 Frameworks:          React, Angular, Node.js
-📱 Mobile:              React Native
-🎨 UI Libraries:        Bootstrap, Axis UI
-⚙️ Methodologies:       Agile, Clean Code
+- 💻 Languages & Core:    HTML5, CSS3, JavaScript, TypeScript
+- 🔧 Frameworks:          React, Angular, Node.js
+- 📱 Mobile:              React Native
+- 🎨 UI Libraries:        Bootstrap, Axis UI
+- ⚙️ Methodologies:       Agile, Clean Code
 
 
 ### 🔍 What I'm Passionate About
